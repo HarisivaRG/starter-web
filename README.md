@@ -13,3 +13,7 @@ This was added as a part of comparisons session
 ##Description
 
 From the bitly/starter-web. this is a sample project added to my github
+
+##Copyright
+
+Add copyright notice- git training to the README.md
