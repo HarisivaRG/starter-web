@@ -17,3 +17,7 @@ From the bitly/starter-web. this is a sample project added to my github
 ##Copyright
 
 Add copyright notice- git training to the README.md
+
+##How to contribute
+
+Fork the project and then proceed with your contributions
