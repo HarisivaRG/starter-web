@@ -16,7 +16,7 @@ From the bitly/starter-web. this is a sample project added to my github
 
 ##Copyright
 
-Add copyright notice- git training to the README.md
+Add copyright notice- git training to the README.md. Making changes as a part of stash
 
 ##How to contribute
 
