@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks to all my students. this line is added as a part of stash. Stash branch.
+    Thanks to all my students. this line is added as a part of stash. Stash branch.Tagging example
 
 # TECHNOLOGY COLOPHON
 
