@@ -7,9 +7,10 @@
 
 # THANKS
 
-    Thanks to all my students. this line is added as a part of stash.
+    Thanks to all my students. this line is added as a part of stash. Stash branch.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	python
